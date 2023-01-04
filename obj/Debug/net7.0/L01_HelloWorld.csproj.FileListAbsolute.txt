@@ -1,0 +1,15 @@
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\L01_HelloWorld.exe
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\L01_HelloWorld.deps.json
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\L01_HelloWorld.runtimeconfig.json
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\L01_HelloWorld.dll
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\L01_HelloWorld.pdb
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.csproj.AssemblyReference.cache
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.AssemblyInfoInputs.cache
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.AssemblyInfo.cs
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.csproj.CoreCompileInputs.cache
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.dll
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\refint\L01_HelloWorld.dll
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.pdb
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\L01_HelloWorld.genruntimeconfig.cache
+E:\.NetXuanThuLab\L01_HelloWorld\obj\Debug\net7.0\ref\L01_HelloWorld.dll

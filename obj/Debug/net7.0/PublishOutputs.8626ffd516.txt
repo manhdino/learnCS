@@ -1,0 +1,5 @@
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\publish\L01_HelloWorld.exe
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\publish\L01_HelloWorld.dll
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\publish\L01_HelloWorld.deps.json
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\publish\L01_HelloWorld.runtimeconfig.json
+E:\.NetXuanThuLab\L01_HelloWorld\bin\Debug\net7.0\publish\L01_HelloWorld.pdb
