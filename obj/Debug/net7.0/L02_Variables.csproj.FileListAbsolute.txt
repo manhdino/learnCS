@@ -1,0 +1,15 @@
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\bin\Debug\net7.0\L02_Variables.exe
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\bin\Debug\net7.0\L02_Variables.deps.json
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\bin\Debug\net7.0\L02_Variables.runtimeconfig.json
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\bin\Debug\net7.0\L02_Variables.dll
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\bin\Debug\net7.0\L02_Variables.pdb
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.csproj.AssemblyReference.cache
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.AssemblyInfoInputs.cache
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.AssemblyInfo.cs
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.csproj.CoreCompileInputs.cache
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.dll
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\refint\L02_Variables.dll
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.pdb
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\L02_Variables.genruntimeconfig.cache
+E:\.NetTutorial\XuanThuLab\Code\L02_Variables\obj\Debug\net7.0\ref\L02_Variables.dll
