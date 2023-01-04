@@ -1,0 +1,15 @@
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\bin\Debug\net7.0\L03_Array.exe
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\bin\Debug\net7.0\L03_Array.deps.json
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\bin\Debug\net7.0\L03_Array.runtimeconfig.json
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\bin\Debug\net7.0\L03_Array.dll
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\bin\Debug\net7.0\L03_Array.pdb
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.csproj.AssemblyReference.cache
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.AssemblyInfoInputs.cache
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.AssemblyInfo.cs
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.csproj.CoreCompileInputs.cache
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.dll
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\refint\L03_Array.dll
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.pdb
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\L03_Array.genruntimeconfig.cache
+E:\.NetTutorial\XuanThuLab\Code\L03_Array\obj\Debug\net7.0\ref\L03_Array.dll
